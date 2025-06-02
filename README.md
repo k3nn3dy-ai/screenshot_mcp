@@ -128,6 +128,11 @@ Transform your web analysis workflow with AI-powered visual intelligence. The Sc
 *Ready to see the web through AI eyes?* 
 
 <img width="732" alt="image" src="https://github.com/user-attachments/assets/2e1458e4-5916-4cc8-8e9b-fee814bc66a8" />
+<img width="745" alt="image" src="https://github.com/user-attachments/assets/c5d7e2e2-b571-45c0-8f6d-9171045a8010" />
+<img width="979" alt="image" src="https://github.com/user-attachments/assets/ff68617f-3abe-4220-9f9e-124f3e08424c" />
+<img width="762" alt="image" src="https://github.com/user-attachments/assets/84f818c1-ff78-4a6e-b1d3-2812e98bea25" />
+<img width="741" alt="image" src="https://github.com/user-attachments/assets/ca22d42a-9e98-4483-b9a7-5bd6e641194d" />
+
 
 ## Prerequisites
 
