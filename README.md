@@ -1,6 +1,8 @@
 # Screenshot MCP Server
 
-A Model Context Protocol (MCP) server that enables Claude Desktop to take screenshots of websites using [gowitness](https://github.com/sensepost/gowitness). Screenshots are organized by date with unique IDs for easy reference and retrieval. **Claude can now view and analyze the screenshots directly!**
+A Model Context Protocol (MCP) server that enables Claude Desktop to take screenshots of websites using [gowitness](https://github.com/sensepost/gowitness). Screenshots are organized by date with unique IDs for easy reference and retrieval. 
+
+<img width="732" alt="image" src="https://github.com/user-attachments/assets/2e1458e4-5916-4cc8-8e9b-fee814bc66a8" />
 
 ## Features
 
