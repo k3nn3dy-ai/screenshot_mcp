@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "screenshot-server": {
+      "command": "node",
+      "args": ["/Users/k3nn3dy/my_mcp/Screenshot_MCP/dist/index.js"],
+      "cwd": "/Users/k3nn3dy/my_mcp/Screenshot_MCP"
+    }
+  }
+} 
