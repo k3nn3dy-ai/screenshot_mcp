@@ -48,23 +48,6 @@ The Screenshot MCP Server is a cutting-edge Model Context Protocol (MCP) server 
 - **Compliance Reporting**: Visual evidence for regulatory compliance and audits
 - **Client Reporting**: Professional visual reports with AI-generated insights
 
-## 💼 Industry Applications
-
-### Cybersecurity Firms
-*"Our penetration testers use the Screenshot MCP Server to automatically capture and analyze target websites, with Claude identifying potential vulnerabilities and attack surfaces in real-time."*
-
-### Digital Marketing Agencies
-*"We monitor 50+ competitor websites daily. Claude analyzes the screenshots and alerts us to new campaigns, design changes, and market opportunities."*
-
-### Web Development Teams
-*"Before every deployment, we capture screenshots of key pages. Claude compares them with previous versions and flags any unintended visual changes."*
-
-### E-commerce Companies
-*"We track competitor pricing and product pages. Claude analyzes the screenshots and provides insights on market positioning and pricing strategies."*
-
-### UX Research Teams
-*"We capture user interfaces across different devices and have Claude analyze accessibility, user flow, and design consistency issues."*
-
 ## ⚡ Workflow Examples
 
 ### Security Assessment Workflow
